@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
-    "dotenv": "^8.2.0",
-    "telegraf": "^3.38.0"
+    "monosay": "^1.0.8",
+    "telegraf": "^4.0.1",
+    "telegraf-ratelimit": "^2.0.0"
   }
 }
